@@ -16,7 +16,9 @@
     --color-white: #ffff;
     --color-third: #38405e;
 }
-
+html{
+    scroll-behavior: smooth;
+}
 body {
     font-family: 'Baloo Tamma 2', cursive;
     line-height: 1.5;
