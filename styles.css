@@ -633,8 +633,6 @@ input[type="submit"]:hover {
         margin-top: 4vh;
         margin-left: 5vw;
     }
-
-    /* note this design */
     .clicked .line1 {
         transform: rotateZ(-405deg) translate(-.5rem, .2rem);
     }
