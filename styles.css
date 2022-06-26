@@ -403,7 +403,7 @@ main {
     }
 
     100% {
-        width: 60%;
+        width: 40%;
     }
 }
 
@@ -417,7 +417,7 @@ main {
     }
 
     100% {
-        width: 90%;
+        width: 50%;
     }
 }
 
@@ -431,7 +431,7 @@ main {
     }
 
     100% {
-        width: 70%;
+        width: 30%;
     }
 }
 
@@ -486,7 +486,7 @@ main {
     }
 
     100% {
-        width: 75%;   }
+        width: 65%;   }
 }
 /* ---- testimonial ---- */
 #testimonial {
